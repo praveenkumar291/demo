@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(96, 37, 192);
+  text-align: center;
+}
+p {
+  color: rgb(255, 0, 13);
+  font-size: large;
+  margin-top: 20%;
+}
+
+h6 {
+  text-align: center;
+  color: chartreuse;
+  margin-top: 1%;
+  font-size: larger;
+}
+span {
+  color: darkcyan;
+}
+i {
+  color: rgb(139, 0, 12);
+}
